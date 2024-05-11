@@ -1,10 +1,12 @@
-# Command Line & Accessing Cypress HPC
-A workshop at Tulane University
-May 2024
+# Command Line & Accessing Cypress HPC cluster
+A workshop at Tulane University - May 14/16 2024
 
+Tidewater building Room 1204
 
+10am-12pm (pre-workshop assistance 9am-10am)
 
-### **[About This Workshop](https://github.com/JessicaMBlanton/CmdLine_and_Cypress_workshop/wiki/Home)**
+### **About This Workshop**
+Posted soon!
 
 ### Setting up your computer
 - [MacOS and Linux instructions](https://github.com/JessicaMBlanton/CmdLine_and_Cypress_workshop/wiki/Computer-setup-%E2%80%90-MacOS-and-Linux)
@@ -12,7 +14,7 @@ May 2024
 
 ### Tutorial materials
 Will be available by start of the workshop
-#### Cypress submission
-Will be available by start of the workshop
+- Command line introduction
+- Cypress access and script submission
    - Data files
    - Code record for initial data download
