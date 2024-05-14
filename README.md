@@ -15,9 +15,8 @@ This workshop is designed for those with little/no prior experience, but may als
 - [MacOS and Linux instructions](https://github.com/JessicaMBlanton/CmdLine_and_Cypress_workshop/wiki/Computer-setup-%E2%80%90-MacOS-and-Linux)
 - [Windows 10 & 11 instructions](https://github.com/JessicaMBlanton/CmdLine_and_Cypress_workshop/wiki/Computer-setup-%E2%80%90-Windows-10-%26-11)
 
-### Tutorial materials
-Will be available by start of the workshop
-- Command line introduction
-- Cypress access and script submission
-   - Data files
-   - Code record for initial data download
+### Etherpad for collaborative note taking
+[May 14 etherpad](https://etherpad.p2pu.org/p/Cmd_line_&_Cypress_051424)
+
+
+
