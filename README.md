@@ -15,8 +15,12 @@ This workshop is designed for those with little/no prior experience, but may als
 - [MacOS and Linux instructions](https://github.com/JessicaMBlanton/CmdLine_and_Cypress_workshop/wiki/Computer-setup-%E2%80%90-MacOS-and-Linux)
 - [Windows 10 & 11 instructions](https://github.com/JessicaMBlanton/CmdLine_and_Cypress_workshop/wiki/Computer-setup-%E2%80%90-Windows-10-%26-11)
 
+- [If you run into this common error for MacOS](https://wiki.hpc.tulane.edu/trac/wiki/cypress/SshUsage): Error msg: Unable to negotiate with xx.xx.xx.xx port 22: no matching host key type found. Their offer: ssh-rsa,ssh-dss
+  
+
 ### Etherpad for collaborative note taking
 [May 14 etherpad](https://etherpad.p2pu.org/p/Cmd_line_&_Cypress_051424)
+
 
 
 
