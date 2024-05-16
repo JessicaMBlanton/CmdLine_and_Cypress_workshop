@@ -9,16 +9,14 @@
 #SBATCH --ntasks-per-node=1   ### Number of tasks to run per node
 #SBATCH --cpus-per-task=20  ### Number of cpus to use
 
-# muscle 5.1.linux64 
+# Make sure muscle 5.1.linux64 is available
 module load muscle/5.1
 
-# FastTree version 2.1.10
+# Make sure FastTree version 2.1.10 is available
 module load qiime2/2018.2
-
 
 # Set up directory for output files
 mkdir primate_tree
-
 
 # Align sequences
 muscle -align primate_cytb.fna -output primate_tree/aln.fna -threads 2 -log primate_tree/muscle_aln.log ;
