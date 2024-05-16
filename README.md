@@ -13,9 +13,13 @@ Tidewater building Room 1204
 The command line is fundamental for all programming languages (e.g., R, Python), and essential for operating numerous programs that are of interest to the research community. As such, understanding its functionality opens avenues for diverse program usage, reproducible science, and remote access to high-performance computing. 
 This 2h workshop is a a hands-on introduction to the UNIX command line, with examples of application and practice using Tulane's Cypress compute cluster.
 
-This workshop is designed for those with little/no prior experience, but may also be of interest to those using Cypress for the first time.
+This workshop is designed for those with little/no prior experience, but may also be of interest to those using Cypress for the first time.  
+Workshop goals: 
+- Promote open reproducible science through skills training
+- Basic working understanding what command line is
+- Demonstrate using remote hpc resources - in advance of more detailed Cypress and LONI workshops
 
-#### [Workshop Tutorial Document (link)](https://hackmd.io/@jmqb/Bkog6b7X0)
+## Workshop Tutorial Document [here](https://hackmd.io/@jmqb/Bkog6b7X0)
 
 ### Etherpad for collaborative note taking
 - [Tuesday May 14 etherpad - Will be replaced with static cleaned version](https://etherpad.p2pu.org/p/Cmd_line_&_Cypress_051424)
