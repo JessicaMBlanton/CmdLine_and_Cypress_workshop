@@ -1,12 +1,13 @@
+### [Please fill this post-workshop feedback form!!](https://forms.gle/muJEnKBdwkXMaQdx7)
+**There are questions that pertain to all registrants, please do send us feedback even if you did not end up attending the workshop**
+
+
 # Command Line & Accessing Cypress HPC cluster
 A workshop at Tulane University - May 14/16 2024
 
 Tidewater building Room 1204
 
 10am-12pm (pre-workshop assistance 9am-10am)
-
-### [Please fill this feedback form!!](https://forms.gle/muJEnKBdwkXMaQdx7)
-
 
 ### **About This Workshop**
 The command line is fundamental for all programming languages (e.g., R, Python), and essential for operating numerous programs that are of interest to the research community. As such, understanding its functionality opens avenues for diverse program usage, reproducible science, and remote access to high-performance computing. 
@@ -17,8 +18,8 @@ This workshop is designed for those with little/no prior experience, but may als
 #### [Workshop Tutorial Document (link)](https://hackmd.io/@jmqb/Bkog6b7X0)
 
 ### Etherpad for collaborative note taking
-- [Tuesday May 14 etherpad](https://etherpad.p2pu.org/p/Cmd_line_&_Cypress_051424)
-- [Thursday May 16 etherpad](https://etherpad.p2pu.org/p/Cmd_line_&_Cypress_051624)
+- [Tuesday May 14 etherpad - Will be replaced with static cleaned version](https://etherpad.p2pu.org/p/Cmd_line_&_Cypress_051424)
+- [Thursday May 16 etherpad - Will be replaced with static cleaned version](https://etherpad.p2pu.org/p/Cmd_line_&_Cypress_051624)
 
 ### Setting up your computer
 - [MacOS and Linux instructions](https://github.com/JessicaMBlanton/CmdLine_and_Cypress_workshop/wiki/Computer-setup-%E2%80%90-MacOS-and-Linux)
