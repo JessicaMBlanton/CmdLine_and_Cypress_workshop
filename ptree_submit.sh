@@ -19,7 +19,7 @@ module load qiime2/2018.2
 mkdir primate_tree
 
 # Align sequences
-muscle -align primate_cytb.fna -output primate_tree/aln.fna -threads 2 -log primate_tree/muscle_aln.log ;
+muscle -align mammal_data/primate_cytb.fna -output primate_tree/aln.fna -threads 2 -log primate_tree/muscle_aln.log ;
 
 # FastTree version 2.1.10
 FastTree -log primate_tree/fasttree.log -nt primate_tree/aln.fna > primate_tree/p_tree.nwk
