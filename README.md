@@ -1,5 +1,5 @@
 ### [Please fill this post-workshop feedback form!!](https://forms.gle/muJEnKBdwkXMaQdx7)
-**There are questions that pertain to all registrants, please do send us feedback even if you did not end up attending the workshop**
+*There are questions that pertain to all registrants, please do send us feedback even if you did not end up attending the workshop*
 
 
 # Command Line & Accessing Cypress HPC cluster
