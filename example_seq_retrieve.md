@@ -13,6 +13,8 @@ Drawn from:
 
 Tobe, Shanan S., Andrew C. Kitchener, and Adrian MT Linacre. "Reconstructing mammalian phylogenies: a detailed comparison of the cytochrome b and cytochrome oxidase subunit I mitochondrial genes." PloS one 5.11 (2010): e14156. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0014156
 
+---
+
 Download NCBI mitochondrial info as searchable list, index with list from Tobe et al
 
 ```
