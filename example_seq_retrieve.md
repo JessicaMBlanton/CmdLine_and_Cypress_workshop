@@ -57,7 +57,7 @@ cat tobe_2010_CYTB_ID.txt | tr "\n" " "
 		# ID: 4519
 		# mitochondrially encoded cytochrome b [Homo sapiens (human)]	
 
-# Download these target primate sequences.  Might need either DNA or amino acid sequences for best tree? Get both.
+# Download these target primate+ sequences.  Might need either DNA or amino acid sequences for best tree? Get both.
 datasets download gene gene-id 807858 808227 808467 808182 807889 807882 807904 6742684 3337208 808703 808483 803405 5522496 5522482 804506 803520 3332201 803083 803066 4171546 4171516 805147 804988 3112551 4097500 2717279 808319 803055 4171583 804976 26192 17711 6775065 4519 --include 'gene,protein'
 
 # Un-archive resulting file and check results
