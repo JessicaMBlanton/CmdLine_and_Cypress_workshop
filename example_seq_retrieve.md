@@ -9,7 +9,7 @@ _______
 
 Purpose: Retrieve a reasonable number of sequences to build a phyogenetic tree for the cmd line workshop next week. Make the sequence headers look pretty but still trustworthy and informative (keep NCBI accessions).
 
-Drawn from:
+Table of mammal info from:
 
 Tobe, Shanan S., Andrew C. Kitchener, and Adrian MT Linacre. "Reconstructing mammalian phylogenies: a detailed comparison of the cytochrome b and cytochrome oxidase subunit I mitochondrial genes." PloS one 5.11 (2010): e14156. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0014156
 
