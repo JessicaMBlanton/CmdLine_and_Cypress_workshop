@@ -22,11 +22,17 @@ Workshop goals:
   - [The Cypress wiki](https://wiki.hpc.tulane.edu/trac/wiki/cypress) contains a wealth of information about the resource, including [simple instructions on getting an account](https://wiki.hpc.tulane.edu/trac/wiki/cypress#Gettinganaccount).
 
 ## Workshop Tutorial Document [here](https://hackmd.io/@jmqb/Bkog6b7X0)
+Useful links from the tutorial
+- [A very nice cheatsheet](https://btiplantbioinfocourse.wordpress.com/wp-content/uploads/2016/02/sgn_unix_commands_cheat_sheet_2016.pdf) from Boyce Thompson Institute (BTI)
+- Online souce for command info https://explainshell.com/
+
 The files in this repo include: 
 - Input sequence data 
 - Output alignment and tree files
 - Example batch submission script for Cypress
 - Example notes on retrieving sequences from NCBI
+
+Check out other online learning resources aggregated in this list from Northwestern University: https://nuitrcs.github.io/commandlineworkshop/
 
 ### Etherpad for collaborative note taking
 - [Tuesday May 14 etherpad - Will be replaced with static cleaned version](https://etherpad.p2pu.org/p/Cmd_line_&_Cypress_051424)
