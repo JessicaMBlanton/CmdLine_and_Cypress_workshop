@@ -25,7 +25,7 @@ cd /Users/good_deeds/Dropbox/REB_Tulane/maywkshp/gene_downloads
 # Authors did a beautiful job [prayer hands emoji], no need to do any cleaning.
 Tobe_2010_mito_ST1.txt
 
-# Download ALL CYTB records from NCBI gene "database" (https://www.ncbi.nlm.nih.gov/gene/?term=cytb)
+# Download *ALL* CYTB records from NCBI gene "database" (https://www.ncbi.nlm.nih.gov/gene/?term=cytb)
 # File is a bit big (17,860 records) , delete when finished
 gene_result.txt
 ll -h gene_result.txt
