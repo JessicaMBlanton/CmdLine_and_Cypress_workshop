@@ -24,7 +24,7 @@ Workshop goals:
 ### Workshop Tutorial Document [here](https://hackmd.io/@jmqb/Bkog6b7X0)
 Useful links from the tutorial
 - [A very nice cheatsheet](https://btiplantbioinfocourse.wordpress.com/wp-content/uploads/2016/02/sgn_unix_commands_cheat_sheet_2016.pdf) from Boyce Thompson Institute (BTI)
-- Online souce for command info https://explainshell.com/
+- Online souce for info on each shell command https://explainshell.com/
 
 The files in this repo include: 
 - Input sequence data 
@@ -35,7 +35,7 @@ The files in this repo include:
 Check out other online learning resources aggregated in this list from Northwestern University: https://nuitrcs.github.io/commandlineworkshop/
 
 ### Etherpad for collaborative note taking
-- [Etherpad Collective notes](https://etherpad.p2pu.org/p/Cmd_line_&_Cypress_051624)
+- [Etherpad collective notes](https://etherpad.p2pu.org/p/Cmd_line_&_Cypress_051624)
 
 ### Setting up your computer
 - [MacOS and Linux instructions](https://github.com/JessicaMBlanton/CmdLine_and_Cypress_workshop/wiki/Computer-setup-%E2%80%90-MacOS-and-Linux)
