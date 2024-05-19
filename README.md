@@ -35,7 +35,7 @@ The files in this repo include:
 Check out other online learning resources aggregated in this list from Northwestern University: https://nuitrcs.github.io/commandlineworkshop/
 
 ### Etherpad for collaborative note taking
-- [Etherpad collective notes](https://etherpad.p2pu.org/p/Cmd_line_&_Cypress_051624)
+- [Etherpad - both days condensed](https://etherpad.p2pu.org/p/Cmd_line_&_Cypress_051624)
 
 ### Setting up your computer
 - [MacOS and Linux instructions](https://github.com/JessicaMBlanton/CmdLine_and_Cypress_workshop/wiki/Computer-setup-%E2%80%90-MacOS-and-Linux)
