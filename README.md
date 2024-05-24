@@ -22,7 +22,7 @@ Workshop goals:
   - [The Cypress wiki](https://wiki.hpc.tulane.edu/trac/wiki/cypress) contains a wealth of information about the resource, including [simple instructions on getting an account](https://wiki.hpc.tulane.edu/trac/wiki/cypress#Gettinganaccount).
 ___
 
-### Workshop Intro Slides [_here_](cmd_line_wkshop_2024_intro.pdf)
+### Workshop Intro Slides [_here_](cmd_line_wkshop_intro_2024.pdf)
 ___
 ### Workshop Tutorial Document [_here_](https://hackmd.io/@jmqb/Bkog6b7X0)
 
