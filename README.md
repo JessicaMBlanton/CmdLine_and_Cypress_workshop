@@ -20,8 +20,10 @@ Workshop goals:
 - Basic working understanding what command line is and what to use it for
 - Demonstrate using remote hpc resources - in advance of more detailed Cypress and LONI workshops
   - [The Cypress wiki](https://wiki.hpc.tulane.edu/trac/wiki/cypress) contains a wealth of information about the resource, including [simple instructions on getting an account](https://wiki.hpc.tulane.edu/trac/wiki/cypress#Gettinganaccount).
+___
 
 ### Workshop Intro slides [_here_](cmd_line_wkshop_2024_intro.pdf)
+___
 ### Workshop Tutorial Document [_here_](https://hackmd.io/@jmqb/Bkog6b7X0)
 
 Useful links from the tutorial
@@ -35,7 +37,7 @@ The files in this repo include:
 - Example notes on retrieving sequences from NCBI
 
 Check out other online learning resources aggregated in this list from Northwestern University: https://nuitrcs.github.io/commandlineworkshop/
-
+___
 ### Etherpad for collaborative note taking
 - [Etherpad - both days condensed](https://etherpad.p2pu.org/p/Cmd_line_&_Cypress_051624)
 
