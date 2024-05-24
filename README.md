@@ -28,7 +28,7 @@ ___
 
 Useful links from the tutorial:
 - [A very nice cheatsheet](https://btiplantbioinfocourse.wordpress.com/wp-content/uploads/2016/02/sgn_unix_commands_cheat_sheet_2016.pdf) from Boyce Thompson Institute (BTI)
-- Online souce for info on each shell command https://explainshell.com/
+- Online source for info on each shell command https://explainshell.com/
 
 The files in this repo include: 
 - Input sequence data 
