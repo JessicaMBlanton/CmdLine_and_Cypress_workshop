@@ -21,7 +21,9 @@ Workshop goals:
 - Demonstrate using remote hpc resources - in advance of more detailed Cypress and LONI workshops
   - [The Cypress wiki](https://wiki.hpc.tulane.edu/trac/wiki/cypress) contains a wealth of information about the resource, including [simple instructions on getting an account](https://wiki.hpc.tulane.edu/trac/wiki/cypress#Gettinganaccount).
 
+### Workshop Intro slides [here](cmd_line_wkshop_2024_intro.pdf)
 ### Workshop Tutorial Document [here](https://hackmd.io/@jmqb/Bkog6b7X0)
+
 Useful links from the tutorial
 - [A very nice cheatsheet](https://btiplantbioinfocourse.wordpress.com/wp-content/uploads/2016/02/sgn_unix_commands_cheat_sheet_2016.pdf) from Boyce Thompson Institute (BTI)
 - Online souce for info on each shell command https://explainshell.com/
